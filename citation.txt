@@ -1,16 +1,9 @@
 @inproceedings{REPO146,
     author = "Luo, Jinwei and He, Mingkai and Lin, Xiaolin and Pan, Weike and Ming, Zhong",
-    address = "New York, NY, USA",
     booktitle = "Proceedings of the 31st ACM International Conference on Information \\& Knowledge Management",
     doi = "10.1145/3511808.3557298",
-    isbn = "9781450392365",
-    keywords = "multi-behavior sequential recommendation, next-item prediction, purchase prediction, self-attention",
-    location = "Atlanta, GA, USA",
     numpages = "10",
     pages = "1379–1388",
-    publisher = "Association for Computing Machinery",
-    series = "CIKM '22",
     title = "{Dual-Task Learning for Multi-Behavior Sequential Recommendation}",
-    url = "https://doi.org/10.1145/3511808.3557298",
     year = "2022"
 }
